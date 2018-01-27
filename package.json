@@ -1,0 +1,24 @@
+{
+  "name": "lrm-aula-04",
+  "version": "1.0.0",
+  "description": "��A\u0000u\u0000l\u0000a\u0000 \u00000\u00004\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrochamuniz/HELLO-JS-SE05-EP04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrochamuniz/HELLO-JS-SE05-EP04/issues"
+  },
+  "homepage": "https://github.com/lucasrochamuniz/HELLO-JS-SE05-EP04#readme",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  }
+}
